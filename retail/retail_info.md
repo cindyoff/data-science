@@ -12,6 +12,8 @@ Variables :
 - `UnitPrice`: product price per unit (price in sterling)
 - `CustomerID`: a unique 5-digit number assigned to each customer
 - `Country` : name of the country where each customer resides
+- `Continent`: name of the contient where each customer resides
+- `TotalSales`: total sales for each customer
 
 Total number of records : 541909
 
